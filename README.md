@@ -10,7 +10,7 @@ This repository presents a framework that can perform non-rigid cross-modality M
 - nibabel
 ## Usage
 - train.py: Train the network
-- deploy.py: Test and deploy the network
+- deploy.py: Test and deploy the model
 - model.py: The main model
 - data.py: Data loading, normalization and augmentation
 - ops.py: Utilities
